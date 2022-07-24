@@ -1,7 +1,33 @@
-# bmi_calculator
+# BMI App
 
-A new Flutter project.
-
+Home Page :
+<br />
+<br />
+<img src="Screenshot.png" width="280" height="500
+" align="left" align="top">
+<img src="Screenshot2.png" width="280" height="500
+" align="left" align="top">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ## Getting Started
 
 This project is a starting point for a Flutter application.
