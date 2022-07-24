@@ -1,6 +1,6 @@
 # BMI App
 
-Home Page :
+Home Pages :
 <br />
 <br />
 <img src="Screenshot.png" width="280" height="500
